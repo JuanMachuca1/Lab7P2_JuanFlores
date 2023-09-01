@@ -10,9 +10,11 @@ import java.awt.Color;
 public class Vehiculo {
     private  String marca;
     private Color color;
+    private String modelo;
     private int año;
     private double precioVenta;
     //id para puntos extra
+    
     
     
     public Vehiculo(String marca, Color color, int año, double precioVenta) {
@@ -22,6 +24,15 @@ public class Vehiculo {
         this.precioVenta = precioVenta;
     }
 
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    
     public String getMarca() {
         return marca;
     }
@@ -56,8 +67,10 @@ public class Vehiculo {
 
     @Override
     public String toString() {
-        return "Vehiculo{" + "marca=" + marca + ", color=" + color + ", a\u00f1o=" + año + ", precioVenta=" + precioVenta + '}';
+        return "Vehiculo{" + "marca=" + marca + ", modelo=" + modelo + ", a\u00f1o=" + año + ", precioVenta=" + precioVenta + '}';
     }
+
+    
     
     
     

@@ -55,5 +55,5 @@ public class Venta {
         return "Venta{" + "vendedor=" + vendedor + ", clienteCompro=" + clienteCompro + ", CostoTransaccion=" + CostoTransaccion + ", CarroVendido=" + CarroVendido + '}';
     }
     
-    
+        
 }
