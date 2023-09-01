@@ -13,7 +13,6 @@ public class Vehiculo {
     private int año;
     private double precioVenta;
     //id para puntos extra
-
     
     
     public Vehiculo(String marca, Color color, int año, double precioVenta) {
