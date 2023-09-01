@@ -17,9 +17,9 @@ public class Vehiculo {
     
     
     
-    public Vehiculo(String marca, Color color, int año, double precioVenta) {
+    public Vehiculo(String marca, String modelo, int año, double precioVenta) {
         this.marca = marca;
-        this.color = color;
+        this.modelo = modelo;
         this.año = año;
         this.precioVenta = precioVenta;
     }
