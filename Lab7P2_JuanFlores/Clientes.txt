@@ -1,0 +1,19 @@
+
+[
+	Machuca,
+	21,
+	Mecanico,
+	1200000,
+]
+[
+	David,
+	25,
+	Mensajero,
+	2155100,
+]
+[
+	Andres,
+	25,
+	Motorista,
+	120012,
+]

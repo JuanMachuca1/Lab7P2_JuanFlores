@@ -1,0 +1,21 @@
+[
+	toyota,
+	supra,
+	java.awt.Color[r=102,g=204,b=0],
+	2003,
+	21505,
+]
+[
+	nissan,
+	altima,
+	java.awt.Color[r=255,g=153,b=51],
+	2005,
+	521505,
+]
+[
+	bmw,
+	m3,
+	java.awt.Color[r=0,g=153,b=204],
+	2017,
+	205518,
+]
